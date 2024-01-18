@@ -4,7 +4,7 @@ import time
 from scapy.all import *
 from multiprocessing import Process
 
-IP_ADDRESS = '16.16.192.113'
+IP_ADDRESS = 'ip_ address'
 KEEP_ALIVE_MESSAGE = "i'm a zombie"
 FRAGMENT_SIZE = 1300
 ICMP_ID = 1
